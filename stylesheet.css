@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(64, 197, 93); 
+} 
+h1, td.h { 
+    color: rgb(255, 255, 255); 
+}
+
+td.a {
+    font-style: normal;
+    color: rgb(255, 0, 0);
+}
+  
+td.b {
+    font-style: italic;
+    color: rgb(0, 247, 255);
+}
+  
+td.c {
+    font-style: oblique;
+    color: rgb(253, 0, 253);
+}
+
+td.d {
+    color: rgb(43, 6, 255);
+}
+  
+td.e {
+    color: rgb(0, 0, 0);
+}
+  
+td.f {
+    color: rgb(229, 255, 0);
+    background-color: black;
+}
